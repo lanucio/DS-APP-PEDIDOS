@@ -1,3 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8MEgcF3.jpg" group-title="FILMES", Lightyear.2022
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8MEgcF3.jpg" group-title="FILMES-INFALTIL", Lightyear.2022
 https://www.mediafire.com/file/t2u38scw84giw67/Lightyear.2022.720p.CAMRip.Dublado.mkv/file
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MdC3G7b.jpg" group-title="FILMES-AÇAO", O-Homem-do-Norte-2022
+http://venom.cdnz.be/filmes/acao/O-Homem-do-Norte-2022.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rKONnVp.jpg" group-title="FILMES-AÇAO", Tiro-as-Cegas-2020
+http://venom.cdnz.be/filmes/acao/Tiro-as-Cegas-2020.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WWTF2m.jpg" group-title="FILMES-AÇAO", Ambulância - Um-Dia-de-Crime
+http://venom.cdnz.be/filmes/acao/Ambulancia-Um-Dia-de-Crime-2022.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eq5jyrt.jpg" group-title="FILMES-AÇAO", Yaksha-Operacao-Implacavel-2022
+http://venom.cdnz.be/filmes/acao/Yaksha-Operacao-Implacavel-2022.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUCYjcO.jpg" group-title="FILMES-AÇAO", Arthur-e-Merlin-Os-Cavaleiros-de-Camelot-2020
+http://venom.cdnz.be/filmes/acao/Arthur-e-Merlin-Os-Cavaleiros-de-Camelot-2020.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waL9kzK.jpg" group-title="FILMES-AÇAO", Spiderhead-2022
+http://venom.cdnz.be/filmes/acao/Spiderhead-2022.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9R5cPSj.jpg" group-title="FILMES-DRAMA", Colisão-2022
+http://venom.cdnz.be/filmes/drama/Colisao-2022.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CVy9yr.jpg" group-title="FILMES-DRAMA", O Pai da Noiva
+http://venom.cdnz.be/filmes/drama/O-Pai-da-Noiva-2022.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bKImTD.jpg" group-title="FILMES-TERROR", Vem-Brincar-2020
+http://venom.cdnz.be/filmes/terror/Vem-Brincar-2020.mp4
+
