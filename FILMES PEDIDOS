@@ -13,10 +13,8 @@ http://venom.cdnz.be/filmes/acao/Yaksha-Operacao-Implacavel-2022.mp4
 http://venom.cdnz.be/filmes/acao/Arthur-e-Merlin-Os-Cavaleiros-de-Camelot-2020.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/waL9kzK.jpg" group-title="FILMES-AÇÃO", Spiderhead-2022
 http://venom.cdnz.be/filmes/acao/Spiderhead-2022.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJeWrTn.jpg" group-title="FILMES-AÇÃO", Doutor Estranho no Multiverso da Loucura-DUB-1080p
 https://www.mediafire.com/file/d90c9wcfvztu4f1/Doutor_Estranho_no_Multiverso_da_Loucura_2022_WEB-DL_1080p_DUAL_5.1.mkv/file
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SMVc5s6.png" group-title="FILMES-AÇÃO", Doutor Estranho no Multiverso da Loucura-IMAX-DUB-1080p
 https://www.mediafire.com/file/e7xjkvy4qikbfzz/Dou-Estran-no-Multi-da-Loucura-2022-IMAX-FULL-HD-DUB-5.1.mp4/file
 
@@ -24,6 +22,14 @@ https://www.mediafire.com/file/e7xjkvy4qikbfzz/Dou-Estran-no-Multi-da-Loucura-20
 http://venom.cdnz.be/filmes/drama/Colisao-2022.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CVy9yr.jpg" group-title="FILMES-DRAMA", O Pai da Noiva
 http://venom.cdnz.be/filmes/drama/O-Pai-da-Noiva-2022.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UgSPZtc.jpg" group-title="FILMES-FICÇÃO", Interestelar-2014-IMAX
+http://venom.cdnz.be/filmes/Ficcao/Interestelar-2014-IMAX.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3F3FwAj.jpg" group-title="FILMES-FICÇÃO", O-Quinto-Elemento-1997-IMAX
+http://venom.cdnz.be/filmes/Ficcao/O-Quinto-Elemento-1997-OPEN-MATTE-IMAX.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PKb57YR.jpg" group-title="FILMES-FICÇÃO", Ameaça-Lunar-2022
+http://venom.cdnz.be/filmes/Ficcao/Moonfall-Ameaca-Lunar-2022.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bKImTD.jpg" group-title="FILMES-TERROR", Vem-Brincar-2020
 http://venom.cdnz.be/filmes/terror/Vem-Brincar-2020.mp4
