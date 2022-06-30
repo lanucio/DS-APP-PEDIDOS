@@ -89,5 +89,6 @@ http://venom.cdnz.be/filmes/comedia/O-Pai-da-Rita-2022-NACIONAL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oeIA8gH.jpg" group-title="FILMES-COMÉDIA", Melhor é Impossível
 https://www.mediafire.com/file/4sikw0jvxeg8rbo/Melhor-e-impossivel-1997.mp4/file
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UhRsjfP.jpg" group-title="YOUTUBE 24hs", METAL
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=38rkaTyul70
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UhRsjfP.jpg" group-title="YOUTUBE 24hs", DESENHOS ANIMADOS ANTIGOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DGNwoBK59ag?t=2674
+
