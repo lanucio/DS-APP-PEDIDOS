@@ -1,29 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZiftJql.jpg" group-title="DOE - DS STORE", PROJETO-FILMES-BRINDE
 https://www.mediafire.com/file/jnx2c27uai4i8zy/DS-VODS-BRINDE.mp4/file
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PT8nm4K.jpg" group-title="DS - YOUTUBE PREMIUM", YOUTUBE PREMIUM
 https://www.mediafire.com/file/itqze0c9r0zy3pd/DIVULGA%25C3%2587%25C3%2583O_YOUTUBE.mp4/file
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BoztWqh.jpg" group-title="SEU PEDIDO DE FILME ESTÁ AQUI", Samaritano 2022
 https://www.mediafire.com/file/3dxwjuzvlydzoj2/Samaritano.2022.1080p.mp4/file
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mr73fsb.jpg" group-title="SEU PEDIDO DE FILME ESTÁ AQUI", Projeto Almanaque (2015) 1080p Dublado
 https://www.mediafire.com/file/c5idsawaybw2bgw/Projeto_Almanaque_%25282015%2529_1080p_Dublado_-_Alan_680.mp4/file
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhEbAFl.jpg", Um Lugar Silencioso: Parte II 2021
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HhEbAFl.jpg" group-title="SEU PEDIDO DE FILME ESTÁ AQUI", Um Lugar Silencioso Parte II
 https://www.mediafire.com/file/er8abyum90x6lqt/03_-_Um_Lugar_Silencioso_Parte_II.mp4/file
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRVwLC2.jpg" group-title="Periféricos 1ª Temporada", EP 1
 https://www.mediafire.com/file/8gresgy0hmljtp3/Perif%25C3%25A9ricos_S01E01_WEB-DL_720p_DUAL_5.1.mkv/file
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRVwLC2.jpg" group-title="Periféricos 1ª Temporada", EP 2
 https://www.mediafire.com/file/x1r1j4upay5f4j0/Perif%25C3%25A9ricos_S01E02_WEB-DL_720p_DUAL_5.1.mkv/file
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRVwLC2.jpg" group-title="Periféricos 1ª Temporada", EP 3
 https://www.mediafire.com/file/cwn9bb5o0i0djtv/Perif%25C3%25A9ricos_S01E03_WEB-DL_720p_DUAL_5.1.mkv/file
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRVwLC2.jpg" group-title="Periféricos 1ª Temporada", EP 4
 https://www.mediafire.com/file/kry376ctzrark3o/Perif%25C3%25A9ricos_S01E04_WEB-DL_720p_DUAL_5.1.mkv/file
