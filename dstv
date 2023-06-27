@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furacao Live FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" DS - YOUTUBE PREMIUM", YOUTUBE PREMIUM
-http://uniplayuhd.cdn23.click:80/539615016/3780297/254096
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PT8nm4K.jpg" group-title="DS YOUTUBE PREMIUM", YOUTUBE PREMIUM
+https://www.mediafire.com/file_premium/8w4b5xm5qp9c3c7/DIVULGA%25C3%2587%25C3%2583O_YOUTUBE.mp4/file
 
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="Furacao Live UHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/REDEFURACAO.png" ASSINE O PACOTE EXTRA DE FILMES E SÉRIES", ASSINE O PACOTE EXTRA DE FILMES E SÉRIES
-https://www.mediafire.com/file_premium/8djtfqv6mrd79do/document_4960828432519791423.mp4/file
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixZYiqE.jpg" group-title="ASSINE O PACOTE EXTRA DE FILMES E SÉRIES", ASSINE O PACOTE EXTRA DE FILMES E SÉRIES
+https://www.mediafire.com/file_premium/8djtfqv6mrd79do/vods.mp4/file
+
 
 
 
